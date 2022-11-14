@@ -9,7 +9,7 @@ import {
   Select,
 } from "@material-ui/core";
 
-import PlaceDetails from "../PlaceDetails/PlaceDetails";
+import PlaceDetails from "../PlaceDetails/place-details.jsx";
 import useStyles from "./styles.js";
 
 const List = ({
