@@ -5,7 +5,7 @@ import List from './components/list/list';
 import Map from './components/map/map';
 import { getPlacesData, getWeatherData } from "./api/index";
 import { CssBaseline, Grid } from "@material-ui/core";
-import './App.css';
+
 
 function App() {
   const [type, setType] = useState("restaurants");
