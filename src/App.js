@@ -2,7 +2,7 @@ import logo from './logo.svg';
 import Header from './components/header/header';
 import List from './components/list/list';
 import Map from './components/map/map';
-import {Grid , CssBaseline} from '@mui/material';
+import { CssBaseline, Grid } from "@material-ui/core";
 import './App.css';
 
 function App() {
