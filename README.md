@@ -44,7 +44,15 @@ An advanced travel companion app using Google Maps API that provides information
 - **[Github](https://github.com/)** for CI/CD and git
  <br/>
 
-
+### Features
+- One stop destination where you can plan your whole trip.
+- Search and explore new places. It  shows all the locations that are related to that search term.
+- Ability to search for places fetching restaurants hotels and attractions based on location from specialized Rapid API 
+- Provides information regarding restaurants's,its rating,number of reviews,pricing & types of food they prepare.
+- It also gives you attractions you can visit.
+- Shows the best hotels in a particular city & its price and ratings.
+- It also gives us real time weather information of that specific location you are planning to visit.
+ <br/>
 
 ## Getting started
 
