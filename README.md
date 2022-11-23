@@ -48,6 +48,7 @@ An advanced travel companion app using Google Maps API that provides information
 
 ```bash
 git clone git@github.com:Srutip04/tour_buddy.git
+cd tour_buddy
 ```
 Create a .env file in the root directory:
 
