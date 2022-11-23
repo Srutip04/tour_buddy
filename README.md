@@ -38,6 +38,8 @@ An advanced travel companion app using Google Maps API that provides information
 - **[ReactJS](https://reactjs.org/docs/getting-started.html)** for front-end
 - **[Material UI](https://mui.com/)** an open-source React component library which includes a collection of prebuilt components that are ready for use in production to implement  custom design system on top of the components.
 - **[Styled Components](https://styled-components.com/)** for styling components
+- **[Google Maps API](https://developers.google.com/maps)** for dynamic maps and routes
+- **[Rapid API](https://rapidapi.com/hub)** for Travel Advisor API and Weather API
 - **[Netlify](https://www.netlify.com/)** used for deploying and hosting the project
 - **[Github](https://github.com/)** for CI/CD and git
  <br/>
